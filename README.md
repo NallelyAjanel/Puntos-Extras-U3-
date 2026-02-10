@@ -1,1 +1,1 @@
-# Puntos-Extras-U3-
+Elegí la licencia MIT porque es sencilla, permite que otros vean y usen el código con fines educativos, pero me libera de responsabilidades si algo falla, segun lo que lei ademas es la licencia que se recomienda para principiantes en programacion y da la libertad de hacer lo que sea. Asi que por eso la escogi. 
