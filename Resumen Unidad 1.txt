@@ -1,0 +1,12 @@
+Resumen Unidad 1 
+
+CODIGO BINARIO 
+
+El sistema binario es un lenguaje fundamental para las computadoras, y se basa en la combinación de 0 y 1 para representar información. Es un concepto sencillo pero poderoso que ha revolucionado la forma en que vivimos y trabajamos, es la primera vez que realmente profundizo con respecto a este concepto pues antes de meterte al técnico de desarrollo en software, yo realmente no había estudiado nada similar o familiarizado con la programación
+
+
+ALGORTIMO
+
+Un algoritmo es una serie de pasos bien definidos que se siguen para resolver un problema o realizar una tarea de manera eficiente. Es un concepto fundamental en la informática y se utiliza en una amplia variedad de aplicaciones, en realidad cuando se lee un poco mas acerca del algoritmo en  la programación resulta un poco menos complejo de lo que en realidad es.
+
+Aunque ambos son conceptos básicos de la programación, me parece que en realidad son la base principal de todo en programación.
